@@ -12,19 +12,19 @@ Dans la fenêtre Hierarchy de Unity, on a :
 Pour les assets : 
 <img width="734" height="195" alt="Capture d'écran 2025-10-25 144502" src="https://github.com/user-attachments/assets/b38cc8ea-b34f-4111-b9d8-3583d8378a75" />
 
-Le script OrbitAroundSun
+Le script SolarSystem
 Ce script permet de gérer les mouvements des planètes autour du Soleil
 <img width="370" height="193" alt="Capture d'écran 2025-10-25 144444" src="https://github.com/user-attachments/assets/7a2d13c2-7295-4709-b594-3a41a3d5ae6f" />
 
 on a : 
 a. Déclaration des objets et des vitesses
-
 Dans cette partie du code, je définis les objets utilisés : le Soleil, la Terre et la Lune.
 Chaque objet est relié à sa position dans la scène grâce au composant Transform.
 Deux vitesses sont aussi indiquées :
 - la vitesse de la Terre autour du Soleil,
 - la vitesse de la Lune autour du Soleil.
 Des variables sont également utilisées pour garder la distance entre les objets, appelée rayon d’orbite.
+
 <img width="902" height="387" alt="Capture d'écran 2025-10-25 144540" src="https://github.com/user-attachments/assets/c58fecd5-42fe-4fc7-a94e-197e1801c521" />
 
 b. Fonction Start()
@@ -67,12 +67,13 @@ Cela permet d’afficher une orbite claire et visible dans la scène Unity.
 <img width="1259" height="391" alt="Capture d'écran 2025-10-25 144606" src="https://github.com/user-attachments/assets/baa9f759-7756-4d69-93b2-67f2fe701cf0" />
 
 Pour les réglages dans l’inspecteur Unity, on a la partie Orbit Around Sun (Script) affiche tous les éléments du script :
-Script : nom du script attaché à l’objet (OrbitAroundSun).
+Script : nom du script attaché à l’objet (SolarSystem).
 Vitesses d’orbite :
 - Earth Orbit Speed = 50 → vitesse de rotation de la Terre,
 - Moon Orbit Speed = 50 → vitesse de rotation de la Lune.
 Ces valeurs peuvent être changées pour accélérer ou ralentir les mouvements.
 
 <img width="435" height="308" alt="Capture d'écran 2025-10-25 144524" src="https://github.com/user-attachments/assets/eea35062-2a59-4dd8-ab18-b958c52d0496" />
+
 
 
