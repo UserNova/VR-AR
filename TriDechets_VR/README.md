@@ -21,3 +21,9 @@ Interaction Drag & Drop : déplacer un objet et le déposer dans une poubelle.
 
 Feedback visuel : V pour une bonne réponse, F pour une erreur.
 
+Video courte tuto : 
+
+https://github.com/user-attachments/assets/37e3ab07-2617-4369-9b20-0a33c64bed81
+
+
+
