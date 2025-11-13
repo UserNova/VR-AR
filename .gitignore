@@ -1,24 +1,61 @@
-# === Unity standard ===
+# ==================================
+# Unity
+# ==================================
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+[Bb]uild*/
 [Ll]ogs/
-[Pp]ackages/com.ptc.vuforia.engine-11.4.4.tgz
-
-# User-specific
 UserSettings/
+MemoryCaptures/
+*.booproj
+*.pidb
+*.suo
+*.user
+*.userprefs
 *.csproj
 *.unityproj
 *.sln
-*.user
-*.vs/
+*.tmp
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.tmp.meta
+*.pdb.meta
+*.mdb.meta
+*.bak
+*.bak.meta
+*.db
+*.db.meta
 
-# OS
-.DS_Store
-Thumbs.db
+# ==================================
+# Packages / External
+# ==================================
+*.tgz
+*.zip
+*.tar
+*.gz
+*.rar
+*.dll
+*.exe
+*.dylib
+*.so
+*.a
+*.lib
+*.apk
+*.obb
 
-# Visual Studio
+# ==================================
+# Visual Studio Cache
+# ==================================
+.vs/
 .vscode/
 .idea/
+
+# ==================================
+# Autres
+# ==================================
+.DS_Store
+Thumbs.db
