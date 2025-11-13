@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46d0516c11b447541acaef21896f59ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lionPanel: {instanceID: 0}
+  - catPanel: {instanceID: 0}
+  - elephantPanel: {instanceID: 0}
+  - tigerPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
