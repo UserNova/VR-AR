@@ -1,5 +1,12 @@
- Je rencontre deux problèmes avec le projet AR Cartes Animaux : dans Unity, lorsque je lance la scène, les panneaux (images et textes) des animaux ne s’affichent pas dans la Game View, seul un message en bas indique que la cible est détectée (par exemple cible détectée : lion_card).
+Rapport — Détection AR du Tigre
+
+Le modèle 3D du tigre apparaît dès que l’image cible est reconnue, accompagné de deux sons synchronisés.
+
+Le rugissement joue avec un volume réduit tandis que la voix descriptive est lue normalement.
+
+Une vidéo de démonstration présente le fonctionnement complet du système AR.
 
 
-https://github.com/user-attachments/assets/edabfce0-d1e5-4f39-83a4-b00e6638c695
+
+https://github.com/user-attachments/assets/7410da0c-c0a1-4279-b7f5-49729bfbe84c
 
